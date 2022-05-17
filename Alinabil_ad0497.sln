@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alinabil_ad0497", "Alinabil_ad0497\Alinabil_ad0497.csproj", "{810BEE19-89F4-49DF-AF7F-13D354B8A75E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{810BEE19-89F4-49DF-AF7F-13D354B8A75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810BEE19-89F4-49DF-AF7F-13D354B8A75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810BEE19-89F4-49DF-AF7F-13D354B8A75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810BEE19-89F4-49DF-AF7F-13D354B8A75E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EEFF76-CE81-4EAC-A5B2-DBBF452D2F0F}
+	EndGlobalSection
+EndGlobal
